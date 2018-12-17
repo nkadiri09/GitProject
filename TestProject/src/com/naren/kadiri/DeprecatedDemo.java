@@ -1,3 +1,4 @@
+package com.naren.kadiri;
 class DeprecatedDemo {
    /* @deprecated This field is replaced by 
     * MAX_NUM field

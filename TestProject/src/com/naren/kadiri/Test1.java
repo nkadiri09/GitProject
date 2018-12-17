@@ -1,3 +1,4 @@
+package com.naren.kadiri;
 class Test1 {
 	// A method that takes variable number of intger
 	// arguments.
